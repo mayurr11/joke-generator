@@ -7,14 +7,14 @@
 }
 
 body {
-    background-color: #EEEEEE;
+    background-color: #F0F0C9;
     font-family:"IBM Plex Sans", Arial, Helvetica, sans-serif;
 }
 
 .container {
     width: 90vmin;
     padding: 50px 40px;
-    background-color: #000000;
+    background-color: #124E78;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -36,8 +36,8 @@ span {
     align-self:center;
     padding: 20px;
     border-radius: 10px;
-    border: none;
-    box-shadow: 0 0 15px #ffffff77;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px #ffffff77;
 }
 
 p {
