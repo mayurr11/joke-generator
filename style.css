@@ -14,7 +14,7 @@ body {
 .container {
     width: 90vmin;
     padding: 50px 40px;
-    background-color: #3b88be;
+    background-color: #000000;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
@@ -32,12 +32,12 @@ span {
     font-size: 50px;
     text-align: center;
     font-family:  'Noto Color Emoji', Arial, Helvetica, sans-serif;
-    background-color: #11111152;
+    background-color: #ffffff52;
     align-self:center;
     padding: 20px;
     border-radius: 10px;
     border: none;
-    box-shadow: 0 0 15px #11111177;
+    box-shadow: 0 0 15px #ffffff77;
 }
 
 p {
@@ -48,8 +48,8 @@ p {
 }
 
 button {
-    background-color: #0B0500;
-    color: #fff;
+    background-color: #ffc227;
+    color: #000000;
     border: none;
     outline: none;
     padding: 15px 40px;
